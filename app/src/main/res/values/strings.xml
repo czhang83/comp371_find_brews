@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Find Brew</string>
+    <string name="get_started">Get Started</string>
+    <string name="search">Search</string>
+    <string name="search_beer_name">Search by beer name</string>
+    <string name="show_results">Show Results</string>
+    <string name="high_point_switch">High-Point Beer?</string>
+    <string name="date_format">mm/yyyy</string>
+    <string name="brewed">Brewed</string>
+    <string name="to">to</string>
+    <string name="results">Results</string>
+    <string name="details">Details</string>
+    <string name="invalid_date">Date invalid</string>
+    <string name="api_fail">API request failed</string>
+    <string name="filter_beer_name">Filter beers by name</string>
+</resources>
